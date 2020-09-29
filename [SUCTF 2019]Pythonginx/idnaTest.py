@@ -1,0 +1,1 @@
+print("波".encode('idna').decode('utf-8'))

