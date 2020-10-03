@@ -29,4 +29,4 @@ def crackMd5(dst):
 
 
 if __name__ == "__main__":
-    print(crackMd5("19d41"))
+    print(crackMd5("eb619"))

