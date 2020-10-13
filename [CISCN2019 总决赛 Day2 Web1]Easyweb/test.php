@@ -3,14 +3,14 @@
 
 // $id=isset($_GET["id"])?$_GET["id"]:"1";
 // $path=isset($_GET["path"])?$_GET["path"]:"";
-$id = "1\\0";
-// $path =
+// $id = "1\\0";
+// // $path =
 
-$id=addslashes($id);
-// $path=addslashes($path);
-echo $id."\n";
-$id=str_replace(array("\\0","%00","\\'","'"),"",$id);
-echo $id."\n";
+// $id=addslashes($id);
+// // $path=addslashes($path);
+// echo $id."\n";
+// $id=str_replace(array("\\0","%00","\\'","'"),"",$id);
+// echo $id."\n";
 // $path=str_replace(array("\\0","%00","\\'","'"),"",$path);
 
 // $result=mysqli_query($con,"select * from images where id='{$id}' or path='{$path}'");
@@ -19,3 +19,6 @@ echo $id."\n";
 // $path="./" . $row["path"];
 // header("Content-Type: image/jpeg");
 // readfile($path);
+
+$id=addslashes("'");
+echo $id;
