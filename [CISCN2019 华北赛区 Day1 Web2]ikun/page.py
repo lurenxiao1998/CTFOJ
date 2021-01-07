@@ -2,7 +2,7 @@ import requests
 from lxml import etree
 from time import sleep
 def a():
-    baseurl="http://b78518ce-dfbf-4800-a98c-91e1006303bc.node3.buuoj.cn/shop"
+    baseurl="http://480f9e29-76e7-4774-9a1e-78d7abe37be1.node3.buuoj.cn/shop"
     flag="lv6"
     final=""
     stop=0
